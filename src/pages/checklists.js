@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
-const ContactPage = ({
+const ChecklistPage = ({
   data: {
     site
   },
@@ -11,7 +11,7 @@ const ContactPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Contact — {site.siteMetadata.title}</title>
+        <title>Checklists — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
@@ -46,9 +46,9 @@ const ContactPage = ({
     </Layout>
   )
 }
-export default ContactPage
+export default ChecklistPage
 export const pageQuery = graphql`
-  query ContactPageQuery{
+  query ChecklistPageQuery{
     site {
       siteMetadata {
         title

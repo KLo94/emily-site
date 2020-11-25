@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
-const ContactPage = ({
+const CounterPage = ({
   data: {
     site
   },
@@ -46,9 +46,9 @@ const ContactPage = ({
     </Layout>
   )
 }
-export default ContactPage
+export default CounterPage
 export const pageQuery = graphql`
-  query ContactPageQuery{
+  query CounterPageQuery{
     site {
       siteMetadata {
         title
