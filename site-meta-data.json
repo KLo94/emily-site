@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Emily Site",
+  "siteUrl": "https://emily-site.netlify.app",
+  "description": "Building a site to track adventures, goals, and memories.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "The Adventures of 😅 😑",
+    "description": "Hi Emily!  Here's my attempt to convince you that I am semi-competent with this \"tech stuff\".  I built this site so that we can track and remember things in our relationship!  Heres some initial features:\n\nA couple blog posts about our adventures/misadventures.\n\nA goals checklist.\n\nDay counter"
   }
 }
