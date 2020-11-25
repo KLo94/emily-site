@@ -2,6 +2,30 @@ import React from "react"
 import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
+import  moment from "moment"
+
+
+const today = new Date()
+const anniversary = new Date("2020-8-13")
+const firstmeetup = new Date("2020-10-20")
+const secondmeetup = new Date("2020-7-20")
+const leavingdate = new Date("2020-12-05") // remember this is equivalent to 06 01 2010
+//dates in js are counted from 0, so 05 is june
+
+Date.getFormattedDateDiff = function(date1, date2) {
+  var b = moment(date1),
+      a = moment(date2),
+      intervals = ['years','months','weeks','days'],
+      out = [];
+ 
+  for(var i=0; i<intervals.length; i++){
+      var diff = a.diff(b, intervals[i]);
+      b.add(diff, intervals[i]);
+      out.push(diff + ' ' + intervals[i]);
+  }
+  return out.join(' • ');
+};
+ 
 
 const CounterPage = ({
   data: {
@@ -15,32 +39,29 @@ const CounterPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/meetfresh.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">First Meetup</h1>
+          <h2> MeetFresh, Redmond, WA </h2>
+          <h2> {firstmeetup.toDateString()}</h2>
+          <h2> {Date.getFormattedDateDiff(firstmeetup, today)}<span role="img" aria-label="love">❤️</span></h2>
         </div>
-        <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
-            <div>
-              <label htmlFor="w3lName">Name</label>
-              <input type="text" name="w3lName" id="w3lName"/>
-            </div>
-            <div>
-              <label htmlFor="w3lSender">Email</label>
-              <input type="email" name="w3lSender" id="w3lSender"/>
-            </div>
-            <div>
-              <label htmlFor="w3lSubject">Subject</label>
-              <input type="text" name="w3lSubject" id="w3lSubject"/>
-            </div>
-            <div>
-              <label htmlFor="w3lMessage">Message</label>
-              <textarea name="w3lMessage" id="w3lMessage"></textarea>
-            </div>
-            <div style={{display: "flex", justifyContent: "flex-end"}}>
-              <input type="submit" className="button -primary" style={{marginRight: 0}} />
-            </div>
-          </form>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/driveway.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">Anniversary</h1>
+          <h2> Emily's Driveway, Richmond Hill, ON </h2>
+          <h2> {anniversary.toDateString()}</h2>
+          <h2> {Date.getFormattedDateDiff(anniversary, today)}<span role="img" aria-label="love">❤️</span></h2>
+        </div>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/lakewilcox.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">Second Meetup</h1>
+          <h2> Lake Wilcox, Richmond Hill, ON </h2>
+          <h2> {secondmeetup.toDateString()}</h2>
+          <h2> {Date.getFormattedDateDiff(secondmeetup, today)}<span role="img" aria-label="love">❤️</span></h2>
+        </div>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/plane.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">Emily Leaves</h1>
+          <h2> Seattle, WA (See you soon!) </h2>
+          <h2> {leavingdate.toDateString()}</h2>
+          <h2> {Date.getFormattedDateDiff(today, leavingdate)}<span role="img" aria-label="love">❤️</span></h2>
         </div>
       </div>
     </Layout>
