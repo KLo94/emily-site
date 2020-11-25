@@ -6,9 +6,9 @@ import  moment from "moment"
 
 
 const today = new Date()
-const anniversary = new Date("2020-8-13")
+const anniversary = new Date("2020-08-13")
 const firstmeetup = new Date("2019-10-20")
-const secondmeetup = new Date("2020-7-20")
+const secondmeetup = new Date("2020-07-20")
 const leavingdate = new Date("2020-12-05") // remember this is equivalent to 06 01 2010
 //dates in js are counted from 0, so 05 is june
 
