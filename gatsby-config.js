@@ -42,6 +42,14 @@ module.exports = {
       }
     },
     {
+    resolve: 'gatsby-source-google-sheets',
+    options: {
+        spreadsheetId: '1A5-a0wxQha40Ru_6iWtjWJJjd2Sl8l9wnci9r-kzeiA',
+        worksheetTitle: 'checklists',
+        credentials: require('./client_secret.json')
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Emily Site`,

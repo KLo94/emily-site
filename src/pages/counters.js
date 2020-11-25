@@ -7,7 +7,7 @@ import  moment from "moment"
 
 const today = new Date()
 const anniversary = new Date("2020-8-13")
-const firstmeetup = new Date("2020-10-20")
+const firstmeetup = new Date("2019-10-20")
 const secondmeetup = new Date("2020-7-20")
 const leavingdate = new Date("2020-12-05") // remember this is equivalent to 06 01 2010
 //dates in js are counted from 0, so 05 is june
@@ -48,7 +48,7 @@ const CounterPage = ({
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/driveway.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Anniversary</h1>
           <h2> Emily's Driveway, Richmond Hill, ON </h2>
-          <h2> {anniversary.toDateString()}</h2>
+          <h2> {anniversary.toDateString()} </h2>
           <h2> {Date.getFormattedDateDiff(anniversary, today)}<span role="img" aria-label="love">❤️</span></h2>
         </div>
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/lakewilcox.jpg')`, marginBottom: 0}}>
