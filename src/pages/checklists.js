@@ -2,7 +2,7 @@ import React from "react"
 import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
-import ChecklistConsumer from "../components/ChecklistConsumer"
+import ChecklistConsumer from "../components/checklistconsumer"
 
 import HeroHeader from "../components/heroHeader"
 
