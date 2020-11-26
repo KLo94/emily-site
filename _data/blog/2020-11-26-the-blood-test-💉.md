@@ -2,8 +2,8 @@
 template: BlogPost
 path: /bloodtest
 date: 2020-11-26T07:30:43.832Z
-title: "The Blood Test \U0001F489"
-thumbnail: /assets/IMG_1839.jpeg
+title: The Blood Test
+thumbnail: /assets/needle.jpg
 ---
 Where: 
 
