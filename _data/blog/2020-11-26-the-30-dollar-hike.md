@@ -3,7 +3,7 @@ template: BlogPost
 path: /thirtydollarhike
 date: 2020-10-24T05:55:11.285Z
 title: The 30 Dollar Hike
-thumbnail: /assets/moneyshot.jpeg
+thumbnail: /assets/money.png
 ---
 Where: Toronto, Ontario
 
