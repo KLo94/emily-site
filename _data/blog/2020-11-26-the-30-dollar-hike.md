@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /thirtydollarhike
-date: 2020-11-26T06:55:11.285Z
+date: 2020-10-24T05:55:11.285Z
 title: The 30 Dollar Hike
 thumbnail: /assets/moneyshot.jpeg
 ---
@@ -12,8 +12,6 @@ Toronto, Ontario
 Dates:
 
 October 24, 2020
-
-
 
 Emily and I go on hikes...a lot of hikes.  We enjoy them a lot...but thats also the thing to do when you're dating in the time of coronavirus and everything is closed or restricted.  Like many other Saturdays beforehand, we decided to go on a hike.  We were going to attempt to go to Rouge National Urban Park again, despite the parking lot being too crowded last time.  Instead of parking at the main parking lot, we actually parked at a different lot at a much further portion of the park....and that is where this magical, glorious, heartwarming story begins.    
 
