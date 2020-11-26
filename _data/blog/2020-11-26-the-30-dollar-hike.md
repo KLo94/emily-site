@@ -5,6 +5,8 @@ date: 2020-10-24T05:55:11.285Z
 title: The 30 Dollar Hike
 thumbnail: /assets/money.png
 ---
+![]()
+
 Where: Toronto, Ontario
 
 Emily and I go on hikes...a lot of hikes.  We enjoy them a lot...but thats also the thing to do when you're dating in the time of coronavirus and everything is closed or restricted.  Like many other Saturdays beforehand, we decided to go on a hike.  We were going to attempt to go to Rouge National Urban Park again, despite the parking lot being too crowded last time.  Instead of parking at the main parking lot, we actually parked at a different lot at a much further portion of the park....and that is where this magical, glorious, heartwarming story begins.    
@@ -29,6 +31,8 @@ She was serious.  100% serious.  It was at this point, that I knew that Emily wo
 
 Ultimately, we agreed to disagree (though, weeks later, Emily DID eat snacks from T&T that I purchased with the 30 dollars).  It was also a funny topic to debate for the rest of the trip.  Here are a few photos of us with the money!
 
-![](/assets/IMG_2640.jpeg)
 
-![](/assets/IMG_2636.jpeg)
+
+![](/assets/woods1.jpeg)
+
+![](/assets/woods2.jpeg)
