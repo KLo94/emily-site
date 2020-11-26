@@ -5,15 +5,7 @@ date: 2020-08-21T06:30:43.832Z
 title: The Blood Test
 thumbnail: /assets/needle.jpg
 ---
-Where: 
-
-Toronto, Ontario
-
-When:
-
-August 21, 2020
-
-
+Where: Toronto, Ontario
 
 I HATE needles.  I always have.  Every single needle I have ever gotten has caused me stress, fear and mental anguish.  Blood draws and IVs stress me out even more because you need to get a needle for an extended duration of time.  Well...I needed a blood test.  Emily was INCREDIBLY kind and understanding about it.  In addition to reassuring me, she even went so far as to ensure that she could take the time from work to go with me for support!  
 
