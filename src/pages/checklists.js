@@ -40,12 +40,13 @@ export const pageQuery = graphql`
         description
       }
     }
-    allGoogleSheetChecklistsRow {
+    allGoogleSheetChecklistsRow(sort: {fields: person}) {
         edges {
           node {
             id
             goal
             status
+            person
           }
         }
       }
