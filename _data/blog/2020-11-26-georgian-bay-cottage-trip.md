@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /cottagetrip
-date: 2020-11-26T05:57:00.521Z
+date: 2020-09-12T04:57:00.521Z
 title: Georgian Bay Cottage Trip
 thumbnail: /assets/DSC08609.JPG
 ---
@@ -9,23 +9,16 @@ Where:
 
 Georgian Bay, Ontario
 
-Dates:
-
-Sept 12, 2020
-
 I took Emily on a day trip to my family cottage on Georgian Bay.  It had been less than a month of officially dating and she was going to meet my grandparents and my family (again).  On top of that, I also gave her about a weeks notice in advance.  😅
 
 Challenge 1: Meeting the family
 
 Emily was definitely concerned about meeting both my family and my grandparents so soon.  I hadn't even met her family yet.  In any case, she turned into a bundle of nerves in the days leading up to the trip.  Fortunately (ish), we found out that my sister could potentially bring her boyfriend which would naturally divide the attention on Emily.  Unfortunately, this came with several challenges...
 
-1) I had never officially spoken to him before.  The last time we were in the same house, I was frozen with rage and it took everything I had not to destroy him and send my sister to nun school.
-
-2) He was somehow intimidated by Emily, in addition to being intimidated by my grandparents.  He believed that Emily would be TOO impressive with her Mandarin skills.  (potentially true? She did go to Peking University after all)
+1. I had never officially spoken to him before.  The last time we were in the same house, I was frozen with rage and it took everything I had not to destroy him and send my sister to nun school.
+2. He was somehow intimidated by Emily, in addition to being intimidated by my grandparents.  He believed that Emily would be TOO impressive with her Mandarin skills.  (potentially true? She did go to Peking University after all)
 
 Needless to say, he ended up coming and it probably lightened the pressure overall.  Emily was also well prepared with her Mandarin, her impressive resume, her "well grounded" persona and the fruits we had purchased the day before.  She brought watermelon...there was an argument about whether we needed bowls and forks...(writing this now makes me upset so I wont document it)...but now she will be known for her watermelon.  🍉
-
-
 
 Challenge 2: ALMOST DYING IN THE MIDDLE OF GEORGIAN BAY...YES IM SERIOUS...I HAVE NEVER BEEN MORE CONCERNED WHILE PADDLING IN MY LIFE.
 
@@ -48,8 +41,6 @@ In addition to our trip to Misery Bay, this was one of those moments where both 
 ![](/assets/DSC08612.JPG)
 
 Once we were back, my 90+ year old grandpa took the time to troll us about our "adventure in the middle of the bay" while trying his very best to promote me to Emily as his favourite.  
-
-
 
 PS: Emily caught her first fish!! 
 
