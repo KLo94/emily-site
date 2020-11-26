@@ -19,10 +19,9 @@ const ChecklistPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>{site.siteMetadata.title}</title>
-        <meta name="description" content={site.siteMetadata.description} />
+        <title>Checklists — {site.siteMetadata.title}</title>
       </Helmet>
-      <HeroHeader/>
+      <h1>A Running List of Goals!</h1>
       <h2>goals &darr;</h2>
       <div className="grids">
         {Posts}

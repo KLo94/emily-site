@@ -6,10 +6,10 @@ import  moment from "moment"
 
 
 const today = new Date()
-const anniversary = new Date("2020-08-13")
-const firstmeetup = new Date("2019-10-20")
-const secondmeetup = new Date("2020-07-20")
-const leavingdate = new Date("2020-12-05") // remember this is equivalent to 06 01 2010
+const anniversary = new Date("2020-08-14")
+const firstmeetup = new Date("2019-10-21")
+const secondmeetup = new Date("2020-07-21")
+const leavingdate = new Date("2020-12-06") // remember this is equivalent to 06 01 2010
 //dates in js are counted from 0, so 05 is june
 
 Date.getFormattedDateDiff = function(date1, date2) {
@@ -38,6 +38,7 @@ const CounterPage = ({
         <title>Counters — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
+      <h1>A List of Important Dates</h1>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/meetfresh.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">First Meetup</h1>
