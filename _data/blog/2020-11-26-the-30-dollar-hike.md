@@ -3,7 +3,7 @@ template: BlogPost
 path: /thirtydollarhike
 date: 2020-11-26T06:55:11.285Z
 title: The 30 Dollar Hike
-thumbnail: /assets/Screen Shot 2020-11-26 at 1.59.39 AM.png
+thumbnail: /assets/moneyshot.jpeg
 ---
 Where:
 
