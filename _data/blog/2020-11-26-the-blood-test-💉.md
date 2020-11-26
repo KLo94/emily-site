@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /bloodtest
-date: 2020-11-26T07:30:43.832Z
+date: 2020-08-21T06:30:43.832Z
 title: The Blood Test
 thumbnail: /assets/needle.jpg
 ---
