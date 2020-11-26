@@ -1,9 +1,9 @@
 ---
 template: BlogPost
 path: /waterloo-part-2
-date: 2020-11-25T04:33:02.870Z
+date: 2020-11-05T04:33:02.870Z
 title: Waterloo Trip Part 2
-metaDescription: test add description
+metaDescription: ''
 thumbnail: /assets/DSC08782.JPG
 ---
 Where: 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /cottagetrip
 date: 2020-11-26T05:57:00.521Z
 title: Georgian Bay Cottage Trip
-thumbnail: /assets/DSC08607.JPG
+thumbnail: /assets/DSC08609.JPG
 ---
 Where:
 
