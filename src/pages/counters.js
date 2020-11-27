@@ -39,6 +39,7 @@ const CounterPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <h1>A List of Important Dates</h1>
+      <h2>goals &darr;</h2>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/meetfresh.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">First Meetup</h1>
