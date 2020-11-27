@@ -25,7 +25,12 @@ Memorable Moments:
    I love free stuff (please see the 30 dollar blog).  I also love meet fresh.  They were doing a scratch and win contest and we were able to win a free pudding!  Emily was pretty embarrassed by my excitement.  She also expressed disappointment in my idea to take the rest of the scratch cards for future use.  :( She compared it to my "theft" of 30 dollars.
 4. The T&T trip
 
-   I love Emily but we are not very compatible when it comes to trips to T&T.  She thinks I have a problem with buying too much but she NEVER WANTS TO BUY ANYTHING.  So restrictive!  Anyways, she was on a call with her dad and it was my perfect opportunity to sneak out and go for a grocery run. 
+   I love Emily but we are not very compatible when it comes to trips to T&T.  She thinks I have a problem with buying too much but she NEVER WANTS TO BUY ANYTHING.  So restrictive!  
+
+   She was on a call with her dad and it was my perfect opportunity to sneak out and go for a grocery run.  Without telling her, I snuck out of the apartment and ran across the street to T&T.  It was FREEDOM.  I started willing my cart with whatever snacks, meats, and vegetables that I wanted.  I felt so accomplished, so clever.  Blinded by hubris, I sent a photo to Emily gloating that I was at T&T.  I instantly regretted my decision and began to move erratically through the store hoping to hide from her when she came.  SUDDENLY she appeared behind me and shouted "WHAT ARE YOU DOING?!".  I had a mini heart attack.
+
+   We then spent the next 30 minutes arguing through the store over what to buy and what not to buy.  My sole defense against Emily was "the noise".  It was highly effective.  Probably the most fun I've had at T&T.
 5. Singing "怎麼了" on the way home
 
-   https://www.youtube.com/watch?v=Y2ge3KrdeWs
+   <blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=Y2ge3KrdeWs">Eric周興哲《怎麼了 What's Wrong》Official Music Video - 華劇【你有念大學嗎？】片尾曲</a></h4><p>這是對感情的無奈控訴 也是對你的最後道別... 《我很快樂 I'm Happy》MV：https://youtu.be/Ezd_DLawfHI立即收聽: https://Eric.lnk.to/Freedom訂閱周興哲Youtube頻道 : https://sonymusic.pse.is/ericyoutube ...</p></blockquote>
+   <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
