@@ -32,5 +32,4 @@ Memorable Moments:
    We then spent the next 30 minutes arguing through the store over what to buy and what not to buy.  My sole defense against Emily was "the noise".  It was highly effective.  Probably the most fun I've had at T&T.
 5. Singing "怎麼了" on the way home
 
-   <blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=Y2ge3KrdeWs">Eric周興哲《怎麼了 What's Wrong》Official Music Video - 華劇【你有念大學嗎？】片尾曲</a></h4><p>這是對感情的無奈控訴 也是對你的最後道別... 《我很快樂 I'm Happy》MV：https://youtu.be/Ezd_DLawfHI立即收聽: https://Eric.lnk.to/Freedom訂閱周興哲Youtube頻道 : https://sonymusic.pse.is/ericyoutube ...</p></blockquote>
-   <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+   <iframe width="480" height="270" src="https://www.youtube.com/embed/Y2ge3KrdeWs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
