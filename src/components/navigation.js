@@ -7,7 +7,7 @@ export default (props) => (
     <Link to="/checklists">Checklists</Link>
     <Link to="/counters">Counters</Link>
     <Link to="/reasons">Reasons</Link>
+    <Link to="/jokes">Jokes</Link>
     <ThemeChanger/>
   </nav>
-  
 )

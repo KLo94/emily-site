@@ -61,6 +61,13 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: 'GoogleSpreadsheetJokes',
+        imagePath: 'photolink',
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Emily Site`,

@@ -1,9 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
+import {Collapse} from 'react-collapse'
+import ExpandCollapse from 'react-expand-collapse'
 
 
 
-const ChecklistConsumer = ({ post }) => (
+const BasicList = ({ post }) => (
 
   <article className="card ">
     <div className="card" >
@@ -19,4 +21,4 @@ const ChecklistConsumer = ({ post }) => (
   </article>
 
 )
-export default ChecklistConsumer
+export default BasicList
