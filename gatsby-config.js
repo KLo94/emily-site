@@ -4,6 +4,10 @@
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
 
+ require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   /* Your site config here */
   siteMetadata: require("./site-meta-data.json"),
@@ -46,6 +50,13 @@ module.exports = {
     options: {
         spreadsheetId: '1A5-a0wxQha40Ru_6iWtjWJJjd2Sl8l9wnci9r-kzeiA',
         worksheetTitle: 'checklists',
+        credentials: require('./client_secret.json')
+      }
+    },
+    {
+      resolve: `gatsby-source-google-spreadsheet`,
+      options:{
+        spreadsheetId:'1A5-a0wxQha40Ru_6iWtjWJJjd2Sl8l9wnci9r-kzeiA',
         credentials: require('./client_secret.json')
       }
     },

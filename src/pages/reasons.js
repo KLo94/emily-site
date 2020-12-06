@@ -3,26 +3,27 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import ChecklistConsumer from "../components/checklistconsumer"
+import BasicList from "../components/basic-list"
 
 import HeroHeader from "../components/heroHeader"
 
-const ChecklistPage = ({
+const ReasonsPage = ({
   data: {
     site,
-    allGoogleSpreadsheetChecklists: { edges },
+    allGoogleSpreadsheetReasons: { edges },
   },
 }) => {
 
   const Posts = edges
-    .map(edge => <ChecklistConsumer key={edge.node.id} post={edge.node} />)
+    .map(edge => <BasicList key={edge.node.id} post={edge.node} />)
 
   return (
     <Layout>
       <Helmet>
-        <title>Checklists — {site.siteMetadata.title}</title>
+        <title>Reasons — {site.siteMetadata.title}</title>
       </Helmet>
-      <h1>A Running List of Goals!</h1>
-      <h2>goals &darr;</h2>
+      <h1>Why We Like Each Other!</h1>
+      <h2>Reasons &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
@@ -30,24 +31,23 @@ const ChecklistPage = ({
   )
 }
 
-export default ChecklistPage
+export default ReasonsPage
 export const pageQuery = graphql`
-  query checklistPageQuery {
+  query reasonPageQuery {
     site {
       siteMetadata {
         title
         description
       }
     }
-    allGoogleSpreadsheetChecklists(sort: {fields: person}) {
-        edges {
-          node {
-            id
-            goal
-            status
-            person
-          }
-        }
+  allGoogleSpreadsheetReasons {
+    edges {
+      node {
+        id
+        person
+        statement
       }
+    }
+  }
   }
 `
